@@ -25,9 +25,9 @@ export default function Home() {
 
         <div className="mb-12">
           <Image
-            src="/logo_dxkre.png"
+            src="/Personaje1.png"
             alt="Diagnostikare Logo"
-            width={100}
+            width={250}
             height={46}
             priority
             className="mx-auto"
